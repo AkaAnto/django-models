@@ -6,3 +6,4 @@ pytest-django
 pytest>=3
 python-status
 vcrpy
+sqlit>=3.9.0
